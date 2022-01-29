@@ -1,9 +1,9 @@
 # Olá, eu sou o Gabriel Stoffel
 
-- 👀 I’m interested in web and mobile development technologies
+- 👀 I’m interested in web and mobile development technologies.
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
  <br>
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/gabstoffel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabstoffel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabstoffel&layout=compact&langs_count=7&theme=dark"/>
