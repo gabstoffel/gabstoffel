@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Stoffel
 
-- 👀 I’m interested in web and mobile development technologies.
+- 👀 I’m interested in web and mobile development technologies
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
  <br>
 <div align="center">
