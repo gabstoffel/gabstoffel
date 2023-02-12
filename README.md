@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
  <br>
  
- <div style="display: inline_block"><br>
+ <div style="
+    display: flex;
+    justify-content: space-around;
+    align-items: center;"><br>
  
- ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstoffel&show_icons=true&theme=dark)
+ ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstoffel&show_icons=true&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstoffel&layout=compact&theme=dracula)](https://github.com/gabstoffel/github-readme-stats)
  
  </div>
 
