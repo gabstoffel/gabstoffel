@@ -3,6 +3,12 @@
 - 👀 I’m interested in web and mobile development technologies.
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native.
  <br>
+ 
+ <div style="display: inline_block"><br>
+ 
+ ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstoffel&show_icons=true&theme=dark)
+ 
+ </div>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
  
@@ -13,6 +19,7 @@
   <img align="center"  height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
  
    ##
 
