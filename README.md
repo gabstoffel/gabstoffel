@@ -10,7 +10,7 @@
     align-items: center;"><br>
  
  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstoffel&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstoffel&layout=compact&theme=dracula)](https://github.com/gabstoffel/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstoffel&count_private=true&layout=compact&theme=dracula)](https://github.com/gabstoffel/github-readme-stats)
  
  </div>
 
