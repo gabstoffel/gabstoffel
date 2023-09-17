@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Stoffel!
 
 - 👀 I’m interested in web and mobile development technologies.
-- 🌱 I’m currently learning NodeJS and TypeScript;
+- 🌱 I’m currently learning C#, .NET and Asp.Net
  <br>
  
  <div style="
